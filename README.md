@@ -31,8 +31,8 @@ practicing the analysis pipeline. Findings should be read as illustrative.
 - **Python**: pandas, statsmodels (OLS regression)
 
 ## Files
-- `01_generate_data.ipynb` — data generation, encoding, and regression analysis
-- `Dell_Survey_Analysis.xlsx` — full Excel workbook with all PivotTables and charts
+- `dell_survey_analysis.ipynb` — data generation, encoding, and regression analysis
+- `dell_survey_data.xlsx` — survey data used for Excel-based exploratory analysis
 
 ## Methodology
 Data was synthetically generated to match the distribution patterns of a 
