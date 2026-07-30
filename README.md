@@ -6,6 +6,11 @@ Analysis of a 372-respondent Dell customer survey examining price sensitivity,
 customer satisfaction, and repurchase loyalty. Combines Excel (PivotTables, 
 crosstabs) for exploratory analysis with Python (regression modeling) for 
 statistical testing.
+## Note on Data Source
+Original raw survey data was not publicly available. This dataset was 
+synthetically generated to replicate the structure and distributions of 
+a documented Dell customer survey case (n=372), for the purpose of 
+practicing the analysis pipeline. Findings should be read as illustrative.
 
 ## Key Findings
 - ~34% of customers would not purchase at a 10% price increase, regardless of gender or income
